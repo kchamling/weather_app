@@ -17,11 +17,11 @@ body {
     169deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(155, 38, 204, 0.8062678062678063) 0%,
-    rgba(39, 242, 167, 0.8974358974358975) 1%,
+    rgba(39, 242, 167, 0.8974358974358975) 0%,
     rgba(39, 168, 242, 1) 66%
   );
-  border-radius: 20px;
-  padding: 20px 26px;
+  border-radius: 10px;
+  padding: 15px 20px;
 }
 
 .grid {
@@ -38,7 +38,7 @@ body {
   justify-content: space-between;
   align-items: center;
   gap: 10px;
-  padding: 12px 20px;
+  padding: 10px 20px;
 
   & input {
     background-color: #fff;
@@ -88,11 +88,11 @@ body {
     width: 35%;
   }
   & h1 {
-    font-size: 40px;
+    font-size: 55px;
     font-weight: 700;
   }
   & h2 {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
   }
 }
